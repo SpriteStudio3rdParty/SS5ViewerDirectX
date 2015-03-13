@@ -12,6 +12,7 @@ http://spritestudio3rdparty.github.io/
 
 SpriteStudio5のプロジェクトファイル(sspj形式)を読み込み、  
 Direct3Dで再生するためのサンプルプログラムです。  
+含まれるソースコードはライセンスに従いご利用いただけます。
 
 ビルドには「Visual Studio2008以降」と「DirectX9.0c SDK」が必要となります。  
 
