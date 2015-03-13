@@ -1,4 +1,4 @@
-SpriteStudio5(sspj) Direct3D再生用サンプル
+# SpriteStudio5(sspj) Direct3D再生用サンプル
 
 ================================================================
 
